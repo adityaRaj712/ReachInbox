@@ -1,0 +1,154 @@
+[
+  {
+    "toName": "Mitrajit",
+    "to": "chandra.rupam@gmail.com",
+    "from": "mitrajit2022@gmail.com",
+    "fromName": "Mitrajit",
+    "subject": "Optimize Your Recruitment Efforts with Expert Support",
+    "body": "Hello how are you ...Recruiters on the way!!"
+  },
+  {
+    "toName": "Alex",
+    "to": "alex.smith@example.com",
+    "from": "john.doe@example.com",
+    "fromName": "John Doe",
+    "subject": "Meeting Reminder",
+    "body": " Don't forget about our meeting tomorrow at 10 AM.  "
+  },
+  {
+    "toName": "Jamie",
+    "to": "jamie.jones@example.com",
+    "from": "lisa.white@example.com",
+    "fromName": "Lisa White",
+    "subject": "Project Update",
+    "body": " Here's the latest update on the project.  "
+  },
+  {
+    "toName": "Samantha",
+    "to": "samantha.brown@example.com",
+    "from": "david.johnson@example.com",
+    "fromName": "David Johnson",
+    "subject": "Quarterly Review",
+    "body": " Your quarterly performance review is scheduled for next week.  "
+  },
+  {
+    "toName": "Robert",
+    "to": "robert.miller@example.com",
+    "from": "natalie.green@example.com",
+    "fromName": "Natalie Green",
+    "subject": "System Maintenance Notification",
+    "body": " We will be performing system maintenance on Saturday.  "
+  },
+  {
+    "toName": "Jessica",
+    "to": "jessica.harris@example.com",
+    "from": "michael.carter@example.com",
+    "fromName": "Michael Carter",
+    "subject": "Team Outing",
+    "body": " Don't forget about the team outing this Friday.  "
+  },
+  {
+    "toName": "Linda",
+    "to": "linda.morris@example.com",
+    "from": "james.roberts@example.com",
+    "fromName": "James Roberts",
+    "subject": "Annual Report",
+    "body": " Please review the attached annual report for any corrections.  "
+  },
+  {
+    "toName": "Mark",
+    "to": "mark.james@example.com",
+    "from": "olivia.smith@example.com",
+    "fromName": "Olivia Smith",
+    "subject": "New Policy Update",
+    "body": " We've updated our company policies. Please review the changes.  "
+  },
+  {
+    "toName": "Emily",
+    "to": "emily.lee@example.com",
+    "from": "benjamin.white@example.com",
+    "fromName": "Benjamin White",
+    "subject": "Holiday Schedule",
+    "body": " Here is the schedule for upcoming holidays.  "
+  },
+  {
+    "toName": "Daniel",
+    "to": "daniel.martin@example.com",
+    "from": "charlotte.wilson@example.com",
+    "fromName": "Charlotte Wilson",
+    "subject": "Sales Report",
+    "body": " The sales report for this quarter is attached.  "
+  },
+  {
+    "toName": "Sophia",
+    "to": "sophia.johnson@example.com",
+    "from": "george.taylor@example.com",
+    "fromName": "George Taylor",
+    "subject": "Client Feedback",
+    "body": " We've received feedback from the client. Please review.  "
+  },
+  {
+    "toName": "Christopher",
+    "to": "christopher.davis@example.com",
+    "from": "sarah.clark@example.com",
+    "fromName": "Sarah Clark",
+    "subject": "Project Deadline",
+    "body": " The deadline for the current project is approaching. Ensure everything is on track.  "
+  },
+  {
+    "toName": "Olivia",
+    "to": "olivia.martinez@example.com",
+    "from": "adam.lewis@example.com",
+    "fromName": "Adam Lewis",
+    "subject": "Training Session",
+    "body": " We've scheduled a training session for next week.  "
+  },
+  {
+    "toName": "Ethan",
+    "to": "ethan.garcia@example.com",
+    "from": "nina.walker@example.com",
+    "fromName": "Nina Walker",
+    "subject": "Invoice Due",
+    "body": " Your invoice is due for payment by the end of the week.  "
+  },
+  {
+    "toName": "Isabella",
+    "to": "isabella.rodriquez@example.com",
+    "from": "oliver.hall@example.com",
+    "fromName": "Oliver Hall",
+    "subject": "Feedback Request",
+    "body": " We would appreciate your feedback on our recent service.  "
+  },
+  {
+    "toName": "James",
+    "to": "james.turner@example.com",
+    "from": "emma.cooper@example.com",
+    "fromName": "Emma Cooper",
+    "subject": "Upcoming Workshop",
+    "body": " Details for the upcoming workshop are included in the attachment.  "
+  },
+  {
+    "toName": "Ava",
+    "to": "ava.hall@example.com",
+    "from": "william.ward@example.com",
+    "fromName": "William Ward",
+    "subject": "Proposal Review",
+    "body": " Please review the attached proposal before our meeting. "
+  },
+  {
+    "toName": "Liam",
+    "to": "liam.jones@example.com",
+    "from": "isla.adams@example.com",
+    "fromName": "Isla Adams",
+    "subject": "System Update",
+    "body": " We are updating our system to improve performance. "
+  },
+  {
+    "toName": "Mia",
+    "to": "mia.brown@example.com",
+    "from": "jacob.miller@example.com",
+    "fromName": "Jacob Miller",
+    "subject": "Policy Reminder",
+    "body": " Just a reminder about the company policy on remote work.  "
+  }
+]
